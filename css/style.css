@@ -1,0 +1,13 @@
+#img-div {
+  margin: 0 auto;
+  max-width: 90%;
+  background-color: blue;
+}
+
+#image {
+  max-width: 100%;
+
+  margin: 0 auto;
+  height: auto;
+  display: block;
+}
