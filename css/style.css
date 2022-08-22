@@ -1,7 +1,25 @@
+.header {
+  height: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  font-size: 60px;
+}
+
+#main {
+  background-color: #eeeeee;
+}
+
 #img-div {
   margin: 0 auto;
   max-width: 90%;
-  background-color: blue;
+  background-color: #fff;
+
+  text-align: center;
+  padding-bottom: 40px;
 }
 
 #image {
